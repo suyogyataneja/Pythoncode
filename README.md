@@ -4,12 +4,12 @@ SUBMITTED BY-Suyogya Taneja
 Suyogya Taneja
 [Email address]
 TABLE OF CONTENTS
-INTRODUCTION ............................................................................................................................................................. 2
-TASK-1 :HANDLING WITH FILE CONTENTS AND PRE-PROCESSING................................................................................ 2
-TASK-2: BUILDING A CLASS FOR DATA ANALYSIS .......................................................................................................... 2
-TASK-3: BUILDING A CLASS FOR DATA VISUALISATION ................................................................................................. 4
-HOW TO RUN ................................................................................................................................................................ 6
-CONCLUSION ................................................................................................................................................................. 6
+INTRODUCTION 
+TASK-1 :HANDLING WITH FILE CONTENTS AND PRE-PROCESSING.....................................
+TASK-2: BUILDING A CLASS FOR DATA ANALYSIS ................................................
+TASK-3: BUILDING A CLASS FOR DATA VISUALISATION ................................................................................................. 
+HOW TO RUN 
+CONCLUSION 
 INTRODUCTION
 In this, a basic language analyser is implemented to investigate the linguistic characteristics of children with some form of language disorders has been implemented. The analyser is able to perform basic statistical analysis on a number of linguistic features and also to present the analysis results using some form of visualisation.
 TASK-1 :HANDLING WITH FILE CONTENTS AND PRE-PROCESSING
