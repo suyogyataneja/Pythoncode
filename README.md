@@ -1,5 +1,5 @@
 # Pythoncode
-ASSIGNMENT -2 Building a Child Language Analyser
+Building a Child Language Analyser
 SUBMITTED BY-Suyogya Taneja(28961897)
 Suyogya Taneja
 [Email address]
@@ -11,7 +11,7 @@ TASK-3: BUILDING A CLASS FOR DATA VISUALISATION ................................
 HOW TO RUN ................................................................................................................................................................ 6
 CONCLUSION ................................................................................................................................................................. 6
 INTRODUCTION
-In this assignment, a basic language analyser is implemented to investigate the linguistic characteristics of children with some form of language disorders has been implemented. The analyser is able to perform basic statistical analysis on a number of linguistic features and also to present the analysis results using some form of visualisation.
+In this, a basic language analyser is implemented to investigate the linguistic characteristics of children with some form of language disorders has been implemented. The analyser is able to perform basic statistical analysis on a number of linguistic features and also to present the analysis results using some form of visualisation.
 TASK-1 :HANDLING WITH FILE CONTENTS AND PRE-PROCESSING
 In this task the the data sets of SLI and TD are refined.In this task glob module has been used to find the path names of the .txt files.
 The filtering of the symbols has been done on the following basis:
