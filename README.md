@@ -1,6 +1,6 @@
 # Pythoncode
 Building a Child Language Analyser
-SUBMITTED BY-Suyogya Taneja(28961897)
+SUBMITTED BY-Suyogya Taneja
 Suyogya Taneja
 [Email address]
 TABLE OF CONTENTS
